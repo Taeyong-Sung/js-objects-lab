@@ -107,8 +107,8 @@ Exercise 8
 Solve Exercise 8 here:
 */
 
-game.party.forEach((myTeam) => {
-  console.log(myTeam.name);
+game.party.forEach((pokemon) => {
+  console.log(pokemon.name);
 });
 
 /*
